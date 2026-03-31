@@ -104,7 +104,7 @@ Lessons and labs:
 2. [Visualizing distributions of data](./M3/lessons/03_displot.ipynb)
 3. [Visualizing categorical data](./M3/lessons/04_catplot.ipynb)
 4. [Visualizing statistical relationships](./M3/lessons/05_relplot.ipynb)
-5. [Effective communication of exploratory results](./M3/lessons/06_effective_viz.ipynb)
+5. [Effective communication of exploratory results](./M3/lessons/06_effective_comm.qmd)
 
 Exercises:
 
