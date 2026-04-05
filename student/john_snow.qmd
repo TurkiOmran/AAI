@@ -18,3 +18,5 @@ Imagine if Snow had only collected data from the local hospitals, rather than wa
 ### Question 3: The "Miasma" of Today
 
 The "miasma theory" was a widely accepted consensus that was fundamentally incorrect but seemed to explain the surface-level facts (Soho smelled bad, and people in Soho were dying). What is a modern example of a "miasma"—a widely accepted assumption in business, society, or science that might fall apart if rigorously tested with data?
+
+**Answer:** Many people believe working longer hours means getting more done. But data shows that after a certain point, you actually get less done, not more.
